@@ -1,0 +1,19 @@
+{
+  "name": "curriculum-vitae",
+  "version": "1.0.0",
+  "description": "Curriculo Tenclar Valus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Curritculo",
+    "tenclar"
+  ],
+  "author": "Tenclar Valus",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
