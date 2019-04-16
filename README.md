@@ -1,2 +1,2 @@
 # curriculum-vitae
-desafil fullstackmaster
+desafio fullstackmaster
